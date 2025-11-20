@@ -1,5 +1,9 @@
 ## 1.3.1
 
+* Fix build errors with flutter 3.35.0 or superior
+
+## 1.3.1
+
 * Fix build errors with flutter 3.29.0
 
 ## 1.3.0
